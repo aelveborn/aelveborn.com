@@ -231,3 +231,6 @@ Cached/
 # Make sure to include details from VisualStudio.gitignore BEFORE this
 !**/App_Data/[Pp]ackages/
 !**/[Uu]mbraco/[Dd]eveloper/[Pp]ackages/
+
+# Node
+**/node_modules/
